@@ -17,3 +17,16 @@ class TestDemo2(unittest.TestCase):
     def testDemo22(self):
         print("第二条用例testDemo22--->执行")
         self.assertNotEqual(1, 2, msg='msg什么场景下显示')
+def func():
+    for i in  range(10):
+        try:
+            if i==3:
+                print("打印出i的值："+str(i))
+                return i
+                print("看看return的语句执不执行")
+            else:
+                print(i)
+        finally:
+            print('记录记录')
+#func()
+print(func())
