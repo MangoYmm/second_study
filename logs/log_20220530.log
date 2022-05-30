@@ -1,9 +1,0 @@
-2022-05-30 07:16:57,797 - logger_utils - INFO - login_page.py  - login_to_home_page - 18 - 获取yml的cookie
-2022-05-30 07:16:57,821 - logger_utils - INFO - login_page.py  - login_to_home_page - 21 - 文件中的cookie添加到当前driver中
-2022-05-30 07:16:59,072 - logger_utils - INFO - home_page.py  - goto_contact_page - 12 - 点击通讯录按钮
-2022-05-30 07:19:55,877 - logger_utils - INFO - login_page.py  - login_to_home_page - 18 - 获取yml的cookie
-2022-05-30 07:19:55,896 - logger_utils - INFO - login_page.py  - login_to_home_page - 21 - 文件中的cookie添加到当前driver中
-2022-05-30 07:20:01,464 - logger_utils - INFO - home_page.py  - goto_contact_page - 12 - 点击通讯录按钮
-2022-05-30 07:22:25,638 - logger_utils - INFO - login_page.py  - login_to_home_page - 18 - 获取yml的cookie
-2022-05-30 07:22:25,670 - logger_utils - INFO - login_page.py  - login_to_home_page - 21 - 文件中的cookie添加到当前driver中
-2022-05-30 07:22:32,536 - logger_utils - INFO - home_page.py  - goto_contact_page - 12 - 点击通讯录按钮
